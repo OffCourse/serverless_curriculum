@@ -1,5 +1,0 @@
-goal: test
-description: hi
-checkpoints:
-  - task: Divide your task into smaller ones (single responsibility principle)
-    resource-url: 'https://www.youtube.com/watch?v=L2m-S0Pj_Xk'
