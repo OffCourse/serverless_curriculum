@@ -1,2 +1,5 @@
 goal: Write Serverless functions with AWS Lambda
 description: Use Serverless or "Functions as a Service" and pay only when a user runs your code. Serverless only uses resources when a user triggers something. Ready? Get started with a Hello World function.
+checkpoints: 
+  - task: Learn about event driven programming
+  - resource-url: 
