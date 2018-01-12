@@ -8,7 +8,7 @@ checkpoints:
   - task: Add Firebase
   - resource-url: 'http://deanhume.com/home/blogpost/a-basic-guide-to-firebase-for-the-web/10142'
   - task: Authenticate users
-  - resource-url: '(https://cloud.google.com/appengine/docs/standard/python/authenticating-users-firebase-appengine'
+  - resource-url: 'https://cloud.google.com/appengine/docs/standard/python/authenticating-users-firebase-appengine'
   - task: Trigger cloud functions
   - resource-url: 'https://medium.com/@chintansoni/firebase-cloud-functions-part-1-introduction-to-triggers-all-you-ever-wanted-8008e50ecb70'
   - task: Deploy app
