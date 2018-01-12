@@ -5,7 +5,7 @@ checkpoints:
   - resource-url: 'https://www.youtube.com/watch?v=L2m-S0Pj_Xk'
   - task: Create a Lambda for each task
   - resource-url: 'https://www.codecademy.com/courses/learn-alexa-lambda/lessons/create-lambda-function/exercises/intro-aws-lambda?'
-  - task: Connects tasks to step functions
+  - task: Connect tasks to step functions
   - resource-url: 'https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/'
   - task: Manage choices (choice states)
   - resource-url: 'http://vgaltes.com/serverless/step-functions-choice-pass-fail-succeed-states/'
