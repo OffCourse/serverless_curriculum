@@ -3,7 +3,7 @@ description: With GraphQL you only need one end point for your data. GraphQL Que
 checkpoints: 
   - task: Learn the difference between REST and GraphQL
     resource-url: 'https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b'
-  - task: Delegate queries to REST endpoints with GraphQL resolvers
+  - task: Delegate to REST endpoints with GraphQL resolvers
     resource-url: 'http://graphql.org/blog/rest-api-graphql-wrapper/'
   - task: Deal with mutation
     resource-url: 'https://developer.github.com/v4/guides/forming-calls/#about-query-and-mutation-operations'
