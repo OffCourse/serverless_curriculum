@@ -3,7 +3,7 @@ description: 'Cloud functions are great for simple tasks, but more ofter than no
 checkpoints:
   - task: Divide your task into smaller ones
     resource-url: 'https://www.youtube.com/watch?v=L2m-S0Pj_Xk'
-  - task: Create a Lambda for each task
+  - task: Create a Lambda for each task (lalal)
     resource-url: 'https://www.codecademy.com/courses/learn-alexa-lambda/lessons/create-lambda-function/exercises/intro-aws-lambda?'
   - task: Connect tasks to step functions
     resource-url: 'https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/'
