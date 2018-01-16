@@ -1,5 +1,5 @@
 goal: Develop a Serverless app in Firebase
-description: 'Firebase is mobile and web application development platform. By taking care of app back-end or infrastructure, Firebase covers the essentials so that developers can focus on solving problems for their users.'
+description: 'Firebase is a mobile and web application development platform. By taking care of app back-end or infrastructure, Firebase covers the essentials so that developers can focus on solving problems for their users.'
 checkpoints:
   - task: Play with the web console
     resource-url: 'https://www.youtube.com/watch?v=k1D0_wFlXgo'
