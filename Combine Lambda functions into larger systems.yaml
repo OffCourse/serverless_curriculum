@@ -1,5 +1,5 @@
-goal: Combine Lambda functions into larger systems
-description: ''
+goal: Compose Large Systems with AWS Step Functions
+description: 'Cloud functions are great for simple tasks, but more ofter than not you want to glue several of them together to accomplish more complex tasks. AWS Step Functions make that very easy.'
 checkpoints:
   - task: Divide your task into smaller ones
     resource-url: 'https://www.youtube.com/watch?v=L2m-S0Pj_Xk'
