@@ -1,7 +1,7 @@
 goal: Combine Lambda functions into larger systems
 description: ''
 checkpoints:
-  - task: Divide your task into smaller ones (single responsibility principle)
+  - task: Divide your task into smaller ones
     resource-url: 'https://www.youtube.com/watch?v=L2m-S0Pj_Xk'
   - task: Create a Lambda for each task
     resource-url: 'https://www.codecademy.com/courses/learn-alexa-lambda/lessons/create-lambda-function/exercises/intro-aws-lambda?'
