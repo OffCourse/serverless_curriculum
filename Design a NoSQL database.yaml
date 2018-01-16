@@ -1,5 +1,5 @@
 goal: Design a NoSQL database
-description: 'Instead of the relational model, NoSQL databases use alternate models for data management, such as key-value pairs or document storage. Learn how to use DynamoDB, the managed NoSQL database service of AWS.'
+description: 'Instead of the relational model, NoSQL databases use alternate models for data management, such as key-value pairs or document storage. Learn how to model your data in the NoSQL paradigm.
 checkpoints:
   - task: Model your data in key value pairs
     resource-url: 'http://www.dummies.com/programming/big-data/engineering/key-value-pair-databases-in-a-big-data-environment/'
