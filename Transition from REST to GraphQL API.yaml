@@ -3,8 +3,8 @@ description: With GraphQL you only need one end point for your data. It allows y
 checkpoints: 
   - task: Learn the difference between REST and GraphQL
   - resource-url: 'https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b'
-  - task: Introduce a proxy endpoint for your GraphQL queries
-  - resource-url: 'https://blog.graph.cool/how-do-graphql-remote-schemas-work-7118237c89d7'
+  - task: Introduce a proxy endpoint for your exisiting REST Queries
+  - resource-url: 'http://graphql.org/blog/rest-api-graphql-wrapper/'
   - task: Delegate queries to REST endpoints with GraphQL resolvers
   - resource-url: 'http://joelgriffith.net/lessons-learned-wrapping-a-rest-api-with-graphql/'
   - task: Deal with mutation
