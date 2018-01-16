@@ -2,14 +2,14 @@ goal: Develop a Serverless app in Firebase
 description: 'Firebase is mobile and web application development platform. By taking care of app back-end or infrastructure, Firebase covers the essentials so that developers can focus on solving problems for their users.'
 checkpoints:
   - task: Play with the web console
-  - resource-url: 'https://www.youtube.com/watch?v=k1D0_wFlXgo'
+    resource-url: 'https://www.youtube.com/watch?v=k1D0_wFlXgo'
   - task: Install CLI tools
-  - resource-url: 'https://github.com/firebase/firebase-tools'
+    resource-url: 'https://github.com/firebase/firebase-tools'
   - task: Add Firebase
-  - resource-url: 'http://deanhume.com/home/blogpost/a-basic-guide-to-firebase-for-the-web/10142'
+    resource-url: 'http://deanhume.com/home/blogpost/a-basic-guide-to-firebase-for-the-web/10142'
   - task: Authenticate users
-  - resource-url: 'https://cloud.google.com/appengine/docs/standard/python/authenticating-users-firebase-appengine'
+    resource-url: 'https://cloud.google.com/appengine/docs/standard/python/authenticating-users-firebase-appengine'
   - task: Trigger cloud functions
-  - resource-url: 'https://medium.com/@chintansoni/firebase-cloud-functions-part-1-introduction-to-triggers-all-you-ever-wanted-8008e50ecb70'
+    resource-url: 'https://medium.com/@chintansoni/firebase-cloud-functions-part-1-introduction-to-triggers-all-you-ever-wanted-8008e50ecb70'
   - task: Deploy app
-  - resource-url: 'https://medium.com/google-developer-experts/deploy-your-app-to-firebase-in-seconds-b3a9a37dff47'
+    resource-url: 'https://medium.com/google-developer-experts/deploy-your-app-to-firebase-in-seconds-b3a9a37dff47'
