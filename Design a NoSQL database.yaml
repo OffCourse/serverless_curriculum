@@ -2,12 +2,12 @@ goal: Design a NoSQL database
 description: 'Instead of the relational model, NoSQL databases use alternate models for data management, such as key-value pairs or document storage. Learn how to use DynamoDB, the managed NoSQL database service of AWS.'
 checkpoints:
   - task: Model your data in key value pairs
-  - resource-url: 'http://www.dummies.com/programming/big-data/engineering/key-value-pair-databases-in-a-big-data-environment/'
+    resource-url: 'http://www.dummies.com/programming/big-data/engineering/key-value-pair-databases-in-a-big-data-environment/'
   - task: Store your data in documents
-  - resource-url: 'http://database.guide/what-is-a-document-store-database/'
+    resource-url: 'http://database.guide/what-is-a-document-store-database/'
   - task: Retrieve data by key
-  - resource-url: 'https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.ReadData.SingleItem.html'
+    resource-url: 'https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.ReadData.SingleItem.html'
   - task: Duplicate data in indexes
-  - resource-url: 'https://www.percona.com/blog/2013/02/20/nosql-is-great-but-you-still-need-indexes/'
+    resource-url: 'https://www.percona.com/blog/2013/02/20/nosql-is-great-but-you-still-need-indexes/'
   - task: Work with streams
-  - resource-url: 'https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html'
+    resource-url: 'https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html'
