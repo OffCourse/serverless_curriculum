@@ -2,16 +2,16 @@ goal: Combine Lambda functions into larger systems
 description: ''
 checkpoints:
   - task: Divide your task into smaller ones (single responsibility principle)
-  - resource-url: 'https://www.youtube.com/watch?v=L2m-S0Pj_Xk'
+    resource-url: 'https://www.youtube.com/watch?v=L2m-S0Pj_Xk'
   - task: Create a Lambda for each task
-  - resource-url: 'https://www.codecademy.com/courses/learn-alexa-lambda/lessons/create-lambda-function/exercises/intro-aws-lambda?'
+    resource-url: 'https://www.codecademy.com/courses/learn-alexa-lambda/lessons/create-lambda-function/exercises/intro-aws-lambda?'
   - task: Connect tasks to step functions
-  - resource-url: 'https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/'
+    resource-url: 'https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/'
   - task: Manage choices (choice states)
-  - resource-url: 'http://vgaltes.com/serverless/step-functions-choice-pass-fail-succeed-states/'
+    resource-url: 'http://vgaltes.com/serverless/step-functions-choice-pass-fail-succeed-states/'
   - task: Work in parallel
-  - resource-url: 'https://serverless.com/blog/aws-lambda-power-tuning/'
+    resource-url: 'https://serverless.com/blog/aws-lambda-power-tuning/'
   - task: Handle errors gracefully
-  - resource-url: 'https://blog.jayway.com/2015/11/07/error-handling-in-api-gateway-and-aws-lambda/'
+    resource-url: 'https://blog.jayway.com/2015/11/07/error-handling-in-api-gateway-and-aws-lambda/'
   - task: Do's and don'ts
-  - resource-url: 'https://medium.com/@tjholowaychuk/dos-and-don-ts-of-aws-lambda-7dfcab7ad115'
+    resource-url: 'https://medium.com/@tjholowaychuk/dos-and-don-ts-of-aws-lambda-7dfcab7ad115'
