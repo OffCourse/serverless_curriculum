@@ -12,6 +12,6 @@ checkpoints:
   - task: Work in parallel
     resource-url: 'https://serverless.com/blog/aws-lambda-power-tuning/'
   - task: Handle errors gracefully
-    resource-url: 'https://blog.jayway.com/2015/11/07/error-handling-in-api-gateway-and-aws-lambda/'
+    resource-url: 'http://vgaltes.com/serverless/handling-errors-in-step-functions/'
   - task: Do's and don'ts
     resource-url: 'https://medium.com/@tjholowaychuk/dos-and-don-ts-of-aws-lambda-7dfcab7ad115'
