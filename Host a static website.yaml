@@ -1,5 +1,5 @@
 goal: Host a static website
-description: 'Always wanted to have your own website? Learn how to host your own static website in five simple steps by using Amazon Web Services. It's fast, inexpensive, and easy to setup.'
+description: 'Always wanted to have your own website? Learn how to host your own static website in five simple steps by using Amazon Web Services. It is fast, inexpensive, and easy to setup.'
 checkpoints:
   - task: Create an S3 bucket
   - resource-url: 'https://www.youtube.com/watch?v=hKK5UNrdEwE'
