@@ -6,7 +6,7 @@ checkpoints:
   - task: Delegate to REST endpoints with GraphQL resolvers
     resource-url: 'https://nordicapis.com/how-to-wrap-a-rest-api-in-graphql/'
   - task: Deal with mutation
-    resource-url: 'https://developer.github.com/v4/guides/forming-calls/#about-query-and-mutation-operations'
+    resource-url: 'https://medium.freecodecamp.org/organizing-graphql-mutations-653306699f3d'
   - task: Subscribe to changes
     resource-url: 'https://scaphold.io/blog/2016/11/09/build-realtime-apps-with-subs.html'
 
