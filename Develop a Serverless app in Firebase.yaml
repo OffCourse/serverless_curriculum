@@ -4,7 +4,7 @@ checkpoints:
   - task: Play with the web console
   - resource-url: 'https://www.youtube.com/watch?v=k1D0_wFlXgo'
   - task: Install CLI tools
-  - resource-url: 'https://github.com/firebase/firebase-tools'
+  - resource-url: 'http://www.techotopia.com/index.php/Installing_the_Firebase_CLI'
   - task: Add Firebase
   - resource-url: 'http://deanhume.com/home/blogpost/a-basic-guide-to-firebase-for-the-web/10142'
   - task: Authenticate users
