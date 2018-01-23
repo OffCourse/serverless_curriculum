@@ -1,15 +1,13 @@
 goal: Transition from REST to GraphQL API
-description: Query the data you require in the format you require with GraphQL. GraphQL allows you to define the structure of the data that you need and returns it from the server. Start thinking about data differently.
+description: With GraphQL you only need one end point for your data. GraphQL Queries and Mutation allows you to define the structure of the data that you need or want to change.  Start thinking about data differently.
 checkpoints: 
   - task: Learn the difference between REST and GraphQL
-  - resource-url: 'https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b'
-  - task: Introduce a proxy endpoint for your GraphQL queries
-  - resource-url: 'https://blog.graph.cool/how-do-graphql-remote-schemas-work-7118237c89d7'
-  - task: Delegate queries to REST endpoints with GraphQL resolvers
-  - resource-url: 'http://joelgriffith.net/lessons-learned-wrapping-a-rest-api-with-graphql/'
+    resource-url: 'https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b'
+  - task: Delegate to REST endpoints with GraphQL resolvers
+    resource-url: 'http://graphql.org/blog/rest-api-graphql-wrapper/'
   - task: Deal with mutation
-  - resource-url: 'https://developer.github.com/v4/guides/forming-calls/#about-query-and-mutation-operations'
+    resource-url: 'https://developer.github.com/v4/guides/forming-calls/#about-query-and-mutation-operations'
   - task: Subscribe to changes
-  - resource-url: 'https://scaphold.io/blog/2016/11/09/build-realtime-apps-with-subs.html'
+    resource-url: 'https://scaphold.io/blog/2016/11/09/build-realtime-apps-with-subs.html'
   
   

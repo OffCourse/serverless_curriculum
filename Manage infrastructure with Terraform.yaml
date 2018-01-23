@@ -2,14 +2,16 @@ goal: Manage infrastructure with Terraform
 description: Serverless deployment is easy in isolation. But as soon as you have more dependencies, it gets complex quickly. Start using Terraform to ensure consistent and predictable deployment.
 checkpoints: 
   - task: Discover the benefits of infrastructure as code
-  - resource-url: 'https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile'
+    resource-url: 'https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile'
+  - task: Learn about Terraform
+    resource-url: 'https://blog.altostack.io/terraform-101/'
   - task: Add a provider
-  - resource-url: 'https://www.terraform.io/docs/configuration/providers.html'
-  - task: Add a resource
-  - resource-url: 'https://dark.ca/2015/01/27/handling-extant-resources-in-terraform/'
-  - task: Make a plan and apply
-  - resource-url: 'https://adamcod.es/2015/10/22/a-pracitcal-introduction-to-terraform-tutorial.html'
+    resource-url: 'https://www.terraform.io/docs/configuration/providers.html'
+  - task: Add resources
+    resource-url: 'https://dark.ca/2015/01/27/handling-extant-resources-in-terraform/'
+  - task: Make a plan and apply it
+    resource-url: 'https://adamcod.es/2015/10/22/a-pracitcal-introduction-to-terraform-tutorial.html'
   - task: Learn about variables and outputs
-  - resource-url: 'https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d'
+    resource-url: 'https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d'
   - task: Break up into modules
-  - resource-url: 'https://www.terraform.io/docs/modules/usage.html'
+    resource-url: 'https://www.terraform.io/docs/modules/usage.html'

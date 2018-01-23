@@ -2,14 +2,14 @@ goal: Practice continuous deployment with Gitlab
 description: 'Continuous Deployment is a practice in which each code change goes through the entire pipeline and is put into production automatically. GitLab gives the possibility to automatically test and deploy your code.'
 checkpoints:
   - task: Create a repository on GitLab
-  - resource-url: 'https://www.youtube.com/watch?v=A5E0EbHbSjQ'
+    resource-url: 'https://www.youtube.com/watch?v=A5E0EbHbSjQ'
   - task: Install GitLab CI
-  - resource-url: 'https://www.codereviewvideos.com/course/your-own-private-github/video/continuously-integrate-all-the-things'
-  - task: Use environment variables
-  - resource-url: 'https://docs.gitlab.com/ce/administration/environment_variables.html'
+    resource-url: 'https://www.codereviewvideos.com/course/your-own-private-github/video/continuously-integrate-all-the-things'
   - task: Automate your tests
-  - resource-url: 'https://w3guy.com/php-testing-gitlab-ci/'
+    resource-url: 'https://w3guy.com/php-testing-gitlab-ci/'
   - task: Automate your deploy
-  - resource-url: 'https://florianbrinkmann.com/en/3473/deployment-gitlab-ci/'
+    resource-url: 'https://florianbrinkmann.com/en/3473/deployment-gitlab-ci/'
   - task: Introduce different environments
-  - resource-url: 'https://laszlo.cloud/gitlab-take-two-dynamic-environments'
+    resource-url: 'https://laszlo.cloud/gitlab-take-two-dynamic-environments'
+  - task: Use environment variables
+    resource-url: 'https://docs.gitlab.com/ce/administration/environment_variables.html'

@@ -1,13 +1,13 @@
 goal: Host a static website
-description: 'Always wanted to have your own website? Learn how to host your own static website in five simple steps by using Amazon Web Services. It's fast, inexpensive, and easy to setup.'
+description: 'Always wanted to have your own website? Learn how to host your own static website in five simple steps by using Amazon Web Services. It is fast, inexpensive, and easy to setup.'
 checkpoints:
   - task: Create an S3 bucket
-  - resource-url: 'https://www.youtube.com/watch?v=hKK5UNrdEwE'
+    resource-url: 'https://www.youtube.com/watch?v=hKK5UNrdEwE'
   - task: Upload your assets
-  - resource-url: 'https://www.youtube.com/watch?v=T8XrCcvymNU'
+    resource-url: 'https://www.youtube.com/watch?v=T8XrCcvymNU'
   - task: Enable website hosting
-  - resource-url: 'https://docs.aws.amazon.com/AmazonS3/latest/dev/EnableWebsiteHosting.html'
+    resource-url: 'https://docs.aws.amazon.com/AmazonS3/latest/dev/EnableWebsiteHosting.html'
   - task: Distribute your content with CloudFront
-  - resource-url: 'https://www.youtube.com/watch?v=4IAP4b4itnk'
+    resource-url: 'https://www.youtube.com/watch?v=4IAP4b4itnk'
   - task: Connect to a top level URL with Route53
-  - resource-url: 'http://inject.coffee/connect-route-53-domain-to-amazon-s3-bucket/'
+    resource-url: 'http://inject.coffee/connect-route-53-domain-to-amazon-s3-bucket/'

@@ -1,0 +1,18 @@
+goal: learn more about graphql
+description: GraphQL is cool, and does not stop with just transferring your REST API.
+  Here's some further things that you can learn.
+checkpoints:
+  - task: move from redux to graphql 
+    resource-url: https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2
+  - task: use it with a static site generator
+    resource-url: https://www.youtube.com/watch?v=b2H7fWhQcdE
+  - task: generate an api from your database automatically
+    resource-url: https://blog.graph.cool/introducing-prisma-1ff423fd629e
+  - task: graphql the world with schema stitching
+    resource-url: https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37
+  - task: adios wordpress
+    resource-url: https://www.youtube.com/watch?v=OIt5idm1NOQ
+  - task: serve your graphql from lambda
+    resource-url: https://www.apollographql.com/docs/apollo-server
+  - task: graphql as a service
+    resource-url: https://dev-blog.apollodata.com/aws-appsync-powered-by-apollo-df61eb706183
