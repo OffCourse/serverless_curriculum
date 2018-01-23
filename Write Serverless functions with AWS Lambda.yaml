@@ -1,6 +1,6 @@
 goal: Write Serverless functions with AWS Lambda
 description: Use Serverless or "Functions as a Service" and pay only when a user runs your code. Serverless only uses resources when a user triggers something. Ready? Get started with a Hello World function.
-checkpoints: 
+checkpoints:
   - task: Understand your backend as an event driven system
     resource-url: 'https://medium.com/@michel.herszak/event-driven-architecture-467dac7a20b9'
   - task: Discover AWS Lambda
@@ -10,7 +10,7 @@ checkpoints:
   - task: Do it Again in Python
     resource-url: 'https://hackernoon.com/creating-serverless-functions-with-python-and-aws-lambda-901d202d45dc'
   - task: Resize an image
-    resource-url: 'http://blog.kaliloudiaby.com/index.php/serverless-image-resizing-aws-lambda-and-aws-s3/'
+    resource-url: 'https://sketchboard.io/blog/serverless-image-resize-with-amazon-lambda'
   - task: Translate text to speech
-    resource-url: 'https://aws.amazon.com/blogs/ai/build-your-own-text-to-speech-applications-with-amazon-polly/'
-  
+    resource-url: 'https://alestic.com/2016/11/amazon-polly-text-to-speech/'
+
