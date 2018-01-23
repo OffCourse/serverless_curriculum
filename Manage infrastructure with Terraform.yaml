@@ -1,6 +1,6 @@
 goal: Manage infrastructure with Terraform
 description: Serverless deployment is easy in isolation. But as soon as you have more dependencies, it gets complex quickly. Start using Terraform to ensure consistent and predictable deployment.
-checkpoints: 
+checkpoints:
   - task: Discover the benefits of infrastructure as code
     resource-url: 'https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile'
   - task: Learn about Terraform
